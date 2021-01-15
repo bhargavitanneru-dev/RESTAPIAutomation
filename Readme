@@ -1,0 +1,4 @@
+# RESTAPIAutomation
+Extracting Weather details using REST API
+Using REST API, Extracted weather details like Temperature,Pressure,Humidity of different cities throughout the world from Open Weather URL.
+The cities for which we want to extract are maintained in an Excel and weather details are updated once they are extracted
